@@ -8,6 +8,7 @@ dependencies = [
     "gymnasium[classic-control]>=1.2.0",
     "matplotlib>=3.10.5",
     "notebook>=7.4.4",
+    "tensorboard>=2.20.0",
     "torch>=2.7.1",
     "tqdm>=4.67.1",
 ]
